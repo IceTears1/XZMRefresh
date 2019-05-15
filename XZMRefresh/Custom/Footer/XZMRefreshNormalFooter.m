@@ -6,7 +6,7 @@
 
 #import "XZMRefreshNormalFooter.h"
 #import "XZMBaseRefreshView.h"
-#import "XZMRefreshConst.h"
+#import "ZTDefineConst.h"
 #import "UIView+XZMFrame.h"
 #import "UIScrollView+XZMExtension.h"
 

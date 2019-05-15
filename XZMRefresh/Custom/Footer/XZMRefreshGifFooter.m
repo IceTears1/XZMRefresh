@@ -8,7 +8,7 @@
 
 #import "XZMRefreshGifFooter.h"
 #import "UIView+XZMFrame.h"
-#import "XZMRefreshConst.h"
+#import "ZTDefineConst.h"
 @interface XZMRefreshGifFooter ()
 /** 播放动画图片的控件 */
 @property (weak, nonatomic) UIImageView *gifView;

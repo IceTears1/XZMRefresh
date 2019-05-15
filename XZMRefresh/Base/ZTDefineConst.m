@@ -1,8 +1,16 @@
-#import <UIKit/UIKit.h>
+//
+//  ZTDefineConst.m
+//  ZTAdvertisementApp
+//
+//  Created by NingPeiChao on 2018/12/3.
+//  Copyright © 2018 CC. All rights reserved.
+//
 
+#import "ZTDefineConst.h"
 const CGFloat XZMRefreshViewWidth = 64.0;
 const CGFloat XZMRefreshFastAnimationDuration = 0.25;
 const CGFloat XZMRefreshSlowAnimationDuration = 0.4;
+@implementation ZTDefineConst
 
 NSString *const XZMRefreshBundleName = @"XZMRefresh.bundle";
 
@@ -16,3 +24,6 @@ NSString *const XZMRefreshHeaderRefreshing = @"正\n在\n刷\n新\n数\n据\n中
 NSString *const XZMRefreshHeaderTimeKey = @"XZMRefreshHeaderView";
 NSString *const XZMRefreshContentOffset = @"contentOffset";
 NSString *const XZMRefreshContentSize = @"contentSize";
+
+
+@end

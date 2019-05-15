@@ -6,7 +6,7 @@
 //
 
 #import "XZMRefreshNormalHeader.h"
-#import "XZMRefreshConst.h"
+#import "ZTDefineConst.h"
 #import "UIScrollView+XZMExtension.h"
 #import "UIView+XZMFrame.h"
 @interface XZMRefreshNormalHeader()

@@ -11,7 +11,7 @@
 
 #import "XZMRefreshGifHeader.h"
 #import "UIView+XZMFrame.h"
-#import "XZMRefreshConst.h"
+#import "ZTDefineConst.h"
 
 @interface XZMRefreshGifHeader()
 @property (weak, nonatomic) UIImageView *gifView;
