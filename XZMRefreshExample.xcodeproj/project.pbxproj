@@ -125,7 +125,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AC83DACD1C59A85C003BB903 /* XZMRefresh */ = {
+		AC83DACD1C59A85C003BB903 /* BL_XZMRefresh */ = {
 			isa = PBXGroup;
 			children = (
 				AC83DACE1C59A85C003BB903 /* Base */,
@@ -135,7 +135,7 @@
 				AC83DAEB1C59A85C003BB903 /* XZMRefresh.bundle */,
 				AC83DAEC1C59A85C003BB903 /* XZMRefresh.h */,
 			);
-			path = XZMRefresh;
+			path = BL_XZMRefresh;
 			sourceTree = SOURCE_ROOT;
 		};
 		AC83DACE1C59A85C003BB903 /* Base */ = {
@@ -227,7 +227,7 @@
 		AC8C9D4A1C21C15E00AB9355 /* XZMRefreshExample */ = {
 			isa = PBXGroup;
 			children = (
-				AC83DACD1C59A85C003BB903 /* XZMRefresh */,
+				AC83DACD1C59A85C003BB903 /* BL_XZMRefresh */,
 				AC8C9D7E1C21C28900AB9355 /* Classes */,
 				AC8C9D4B1C21C15E00AB9355 /* Supporting Files */,
 			);
@@ -400,6 +400,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
-    s.name         = 'XZMRefresh'
-    s.version      = '1.1.3'
+    s.name         = 'BL_XZMRefresh'
+    s.version      = '1.1.3.0'
     s.summary      = 'The easiest way to use pull-to-The transverse refresh'
-    s.homepage     = 'https://github.com/xiezhongmin/XZMRefresh'
+    s.homepage     = 'https://github.com/IceTears1/XZMRefresh'
     s.license      = 'MIT'
-    s.authors      = {'xie1988' => '364101515@qq.com'}
-    s.platform     = :ios, '6.0'
-    s.source       = {:git => 'https://github.com/xiezhongmin/XZMRefresh.git', :tag => s.version}
-    s.source_files = 'XZMRefresh/**/*.{h,m}'
-    s.resource     = 'XZMRefresh/XZMRefresh.bundle'
+    s.authors      = {'ice' => '642203775@qq.com'}
+    s.platform     = :ios, '8.0'
+    s.source       = {:git => 'https://github.com/IceTears1/XZMRefresh.git', :tag => s.version}
+    s.source_files = 'BL_XZMRefresh/**/*.{h,m}'
+    s.resource     = 'BL_XZMRefresh/XZMRefresh.bundle'
     s.requires_arc = true
 end
