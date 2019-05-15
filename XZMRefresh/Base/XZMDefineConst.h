@@ -27,7 +27,7 @@ XZMRefreshState oldState = self.state; \
 if (state == oldState) return; \
 [super setState:state];
 
-@interface ZTDefineConst : NSObject
+@interface XZMDefineConst : NSObject
 
 extern const CGFloat XZMRefreshViewWidth;
 extern const CGFloat XZMRefreshFastAnimationDuration;

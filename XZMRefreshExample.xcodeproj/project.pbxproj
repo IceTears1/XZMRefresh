@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		58D75DEB228BEC33002EC3C6 /* ZTDefineConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 58D75DE9228BEC33002EC3C6 /* ZTDefineConst.m */; };
+		58D75DEB228BEC33002EC3C6 /* XZMDefineConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 58D75DE9228BEC33002EC3C6 /* XZMDefineConst.m */; };
 		AC83DAED1C59A85C003BB903 /* XZMBaseRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = AC83DAD01C59A85C003BB903 /* XZMBaseRefreshView.m */; };
 		AC83DAEE1C59A85C003BB903 /* UIScrollView+XZMExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = AC83DAD31C59A85C003BB903 /* UIScrollView+XZMExtension.m */; };
 		AC83DAEF1C59A85C003BB903 /* UIScrollView+XZMRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = AC83DAD51C59A85C003BB903 /* UIScrollView+XZMRefresh.m */; };
@@ -51,8 +51,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		58D75DE9228BEC33002EC3C6 /* ZTDefineConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZTDefineConst.m; sourceTree = "<group>"; };
-		58D75DEA228BEC33002EC3C6 /* ZTDefineConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZTDefineConst.h; sourceTree = "<group>"; };
+		58D75DE9228BEC33002EC3C6 /* XZMDefineConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XZMDefineConst.m; sourceTree = "<group>"; };
+		58D75DEA228BEC33002EC3C6 /* XZMDefineConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XZMDefineConst.h; sourceTree = "<group>"; };
 		AC83DACF1C59A85C003BB903 /* XZMBaseRefreshView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XZMBaseRefreshView.h; sourceTree = "<group>"; };
 		AC83DAD01C59A85C003BB903 /* XZMBaseRefreshView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XZMBaseRefreshView.m; sourceTree = "<group>"; };
 		AC83DAD21C59A85C003BB903 /* UIScrollView+XZMExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+XZMExtension.h"; sourceTree = "<group>"; };
@@ -140,8 +140,8 @@
 		AC83DACE1C59A85C003BB903 /* Base */ = {
 			isa = PBXGroup;
 			children = (
-				58D75DEA228BEC33002EC3C6 /* ZTDefineConst.h */,
-				58D75DE9228BEC33002EC3C6 /* ZTDefineConst.m */,
+				58D75DEA228BEC33002EC3C6 /* XZMDefineConst.h */,
+				58D75DE9228BEC33002EC3C6 /* XZMDefineConst.m */,
 				AC83DAE81C59A85C003BB903 /* UIView+XZMFrame.h */,
 				AC83DAE91C59A85C003BB903 /* UIView+XZMFrame.m */,
 				AC83DACF1C59A85C003BB903 /* XZMBaseRefreshView.h */,
@@ -454,7 +454,7 @@
 				AC83DAEF1C59A85C003BB903 /* UIScrollView+XZMRefresh.m in Sources */,
 				AC83DAF51C59A85C003BB903 /* XZMRefreshNormalHeader.m in Sources */,
 				AC83DAF81C59A85C003BB903 /* UIView+XZMFrame.m in Sources */,
-				58D75DEB228BEC33002EC3C6 /* ZTDefineConst.m in Sources */,
+				58D75DEB228BEC33002EC3C6 /* XZMDefineConst.m in Sources */,
 				AC83DAF41C59A85C003BB903 /* XZMRefreshHeader.m in Sources */,
 				AC83DAEE1C59A85C003BB903 /* UIScrollView+XZMExtension.m in Sources */,
 				AC8C9DA11C21D81A00AB9355 /* XZMCollectionViewCell.m in Sources */,

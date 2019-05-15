@@ -6,11 +6,11 @@
 //  Copyright © 2018 CC. All rights reserved.
 //
 
-#import "ZTDefineConst.h"
+#import "XZMDefineConst.h"
 const CGFloat XZMRefreshViewWidth = 64.0;
 const CGFloat XZMRefreshFastAnimationDuration = 0.25;
 const CGFloat XZMRefreshSlowAnimationDuration = 0.4;
-@implementation ZTDefineConst
+@implementation XZMDefineConst
 
 NSString *const XZMRefreshBundleName = @"XZMRefresh.bundle";
 
